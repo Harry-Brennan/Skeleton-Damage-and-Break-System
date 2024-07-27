@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/harry/Desktop/Uni/Side Projects/SkeletonDamageSystem/Content/Skeleton_Damage_System/BPC_Skeleton_Damage_System.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/SkeletonDamageSystem/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/SkeletonDamageSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/SkeletonDamageSystem/Content/BP_Test_Dummy.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/SkeletonDamageSystem/Content/Skeleton_Damage_System/BP_Test_Dummy.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/SkeletonDamageSystem/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KL/O0GX3H436QRJBU7EO4E66T.uasset",
+				"C:/Users/harry/Desktop/Uni/Side Projects/SkeletonDamageSystem/Content/Skeleton_Damage_System/BPI_Implements_Skeleton_Damage.uasset"
+			]
+		}
+	]
+}
